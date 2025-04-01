@@ -1,6 +1,13 @@
-# Nuxt Minimal Starter
+# тестовый проект
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Демо
+
+Посмотреть проект в действии можно по ссылке:  
+https://payot-test.netlify.app/
+
+## Описание
+
+Веб-приложение, построенное на Nuxt 3, включает список статей с пагинацией и переходом на детальную страницу.
 
 ## Setup
 
